@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="8" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="199435" started-at="2018-04-13T08:07:50Z" finished-at="2018-04-13T08:11:09Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="199435" started-at="2018-04-13T08:07:50Z" finished-at="2018-04-13T08:11:09Z">
+      <class name="com.qa.testcases.VerifyTheItemsinPLP">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="setup" is-config="true" duration-ms="10200" started-at="2018-04-13T13:39:39Z" finished-at="2018-04-13T13:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPrimeItemsinFirstPLP()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="VerifyPrimeItemsinFirstPLP" duration-ms="4052" started-at="2018-04-13T13:39:49Z" finished-at="2018-04-13T13:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPrimeItemsinFirstPLP -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="teardown" is-config="true" duration-ms="5148" started-at="2018-04-13T13:39:53Z" finished-at="2018-04-13T13:39:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyPrimeItemsinFirstPLP status=SUCCESS method=VerifyTheItemsinPLP.VerifyPrimeItemsinFirstPLP()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="setup" is-config="true" duration-ms="10350" started-at="2018-04-13T13:39:58Z" finished-at="2018-04-13T13:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPrimeItemsinFirstPLP2()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="VerifyPrimeItemsinFirstPLP2" duration-ms="3928" started-at="2018-04-13T13:40:09Z" finished-at="2018-04-13T13:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPrimeItemsinFirstPLP2 -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="teardown" is-config="true" duration-ms="6226" started-at="2018-04-13T13:40:13Z" finished-at="2018-04-13T13:40:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyPrimeItemsinFirstPLP2 status=SUCCESS method=VerifyTheItemsinPLP.VerifyPrimeItemsinFirstPLP2()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="setup" is-config="true" duration-ms="9361" started-at="2018-04-13T13:40:19Z" finished-at="2018-04-13T13:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPrimeItemsinFirstPLP3()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="VerifyPrimeItemsinFirstPLP3" duration-ms="3606" started-at="2018-04-13T13:40:28Z" finished-at="2018-04-13T13:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPrimeItemsinFirstPLP3 -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="teardown" is-config="true" duration-ms="6228" started-at="2018-04-13T13:40:32Z" finished-at="2018-04-13T13:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyPrimeItemsinFirstPLP3 status=SUCCESS method=VerifyTheItemsinPLP.VerifyPrimeItemsinFirstPLP3()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="setup" is-config="true" duration-ms="16693" started-at="2018-04-13T13:40:38Z" finished-at="2018-04-13T13:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPrimeItemsinFirstPLP4()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="VerifyPrimeItemsinFirstPLP4" duration-ms="8917" started-at="2018-04-13T13:40:55Z" finished-at="2018-04-13T13:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPrimeItemsinFirstPLP4 -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34]" name="teardown" is-config="true" duration-ms="5746" started-at="2018-04-13T13:41:04Z" finished-at="2018-04-13T13:41:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyPrimeItemsinFirstPLP4 status=SUCCESS method=VerifyTheItemsinPLP.VerifyPrimeItemsinFirstPLP4()[pri:0, instance:com.qa.testcases.VerifyTheItemsinPLP@6276ae34] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.VerifyTheItemsinPLP -->
+      <class name="com.qa.testcases.VerifyAddToCartFromPLPTest">
+        <test-method status="PASS" signature="clearData()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="clearData" is-config="true" duration-ms="11" started-at="2018-04-13T13:37:50Z" finished-at="2018-04-13T13:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearData -->
+        <test-method status="PASS" signature="startExtendReport()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="startExtendReport" is-config="true" duration-ms="0" started-at="2018-04-13T13:37:50Z" finished-at="2018-04-13T13:37:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtendReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="setup" is-config="true" duration-ms="10926" started-at="2018-04-13T13:37:50Z" finished-at="2018-04-13T13:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addFirstItemfromPLP()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="addFirstItemfromPLP" duration-ms="9617" started-at="2018-04-13T13:38:01Z" finished-at="2018-04-13T13:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFirstItemfromPLP -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="teardown" is-config="true" duration-ms="2557" started-at="2018-04-13T13:38:10Z" finished-at="2018-04-13T13:38:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addFirstItemfromPLP status=SUCCESS method=VerifyAddToCartFromPLPTest.addFirstItemfromPLP()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="setup" is-config="true" duration-ms="36874" started-at="2018-04-13T13:38:13Z" finished-at="2018-04-13T13:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="addFirstItemfromPLP2()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="addFirstItemfromPLP2" duration-ms="449" started-at="2018-04-13T13:38:50Z" finished-at="2018-04-13T13:38:50Z">
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[element not visible
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'WKWIN1035567', ip: '10.150.182.136', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_40'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\sseela\AppData\Local\Temp\scoped_dir7340_2283}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2a06cea601762f526692958c155afed4]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 29 milliseconds
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'WKWIN1035567', ip: '10.150.182.136', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_40'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\sseela\AppData\Local\Temp\scoped_dir7340_2283}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2a06cea601762f526692958c155afed4
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at com.qa.pages.HomePage.navigateToPLP(HomePage.java:40)
+	at com.qa.testcases.VerifyAddToCartFromPLPTest.addFirstItemfromPLP2(VerifyAddToCartFromPLPTest.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFirstItemfromPLP2 -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="teardown" is-config="true" duration-ms="4931" started-at="2018-04-13T13:38:50Z" finished-at="2018-04-13T13:38:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addFirstItemfromPLP2 status=FAILURE method=VerifyAddToCartFromPLPTest.addFirstItemfromPLP2()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="setup" is-config="true" duration-ms="9190" started-at="2018-04-13T13:38:55Z" finished-at="2018-04-13T13:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addFirstItemfromPLP3()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="addFirstItemfromPLP3" duration-ms="9392" started-at="2018-04-13T13:39:04Z" finished-at="2018-04-13T13:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFirstItemfromPLP3 -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="teardown" is-config="true" duration-ms="1851" started-at="2018-04-13T13:39:14Z" finished-at="2018-04-13T13:39:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addFirstItemfromPLP3 status=SUCCESS method=VerifyAddToCartFromPLPTest.addFirstItemfromPLP3()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="setup" is-config="true" duration-ms="11538" started-at="2018-04-13T13:39:16Z" finished-at="2018-04-13T13:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addFirstItemfromPLP4()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="addFirstItemfromPLP4" duration-ms="9847" started-at="2018-04-13T13:39:27Z" finished-at="2018-04-13T13:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFirstItemfromPLP4 -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="teardown" is-config="true" duration-ms="1765" started-at="2018-04-13T13:39:37Z" finished-at="2018-04-13T13:39:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addFirstItemfromPLP4 status=SUCCESS method=VerifyAddToCartFromPLPTest.addFirstItemfromPLP4()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="endExtentReport()[pri:0, instance:com.qa.testcases.VerifyAddToCartFromPLPTest@61dc03ce]" name="endExtentReport" is-config="true" duration-ms="0" started-at="2018-04-13T13:41:09Z" finished-at="2018-04-13T13:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endExtentReport -->
+      </class> <!-- com.qa.testcases.VerifyAddToCartFromPLPTest -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>

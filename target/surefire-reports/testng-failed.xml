@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [example suite 1]">
+  <test name="Regression suite 1(failed)">
+    <classes>
+      <class name="com.qa.testcases.VerifyAddToCartFromPLPTest">
+        <methods>
+          <include name="setup"/>
+          <include name="clearData"/>
+          <include name="addFirstItemfromPLP2"/>
+          <include name="startExtendReport"/>
+          <include name="teardown"/>
+          <include name="endExtentReport"/>
+        </methods>
+      </class> <!-- com.qa.testcases.VerifyAddToCartFromPLPTest -->
+      <class name="com.qa.testcases.VerifyTheItemsinPLP">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.testcases.VerifyTheItemsinPLP -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [example suite 1] -->

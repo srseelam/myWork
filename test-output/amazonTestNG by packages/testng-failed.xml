@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [amazonTestNG by packages]">
+  <test name="com.qa.testcases(failed)">
+    <classes>
+      <class name="com.qa.testcases.VerifyAddToCartFromPLPTest">
+        <methods>
+          <include name="setup"/>
+          <include name="clearData"/>
+          <include name="startExtendReport"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.qa.testcases.VerifyAddToCartFromPLPTest -->
+      <class name="com.qa.testcases.VerifyTheItemsinPLP">
+        <methods>
+          <include name="setup"/>
+          <include name="VerifyPrimeItemsinFirstPLP"/>
+          <include name="VerifyPrimeItemsinFirstPLP2"/>
+          <include name="teardown"/>
+          <include name="VerifyPrimeItemsinFirstPLP4"/>
+          <include name="VerifyPrimeItemsinFirstPLP3"/>
+        </methods>
+      </class> <!-- com.qa.testcases.VerifyTheItemsinPLP -->
+    </classes>
+  </test> <!-- com.qa.testcases(failed) -->
+</suite> <!-- Failed suite [amazonTestNG by packages] -->
